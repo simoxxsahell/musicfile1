@@ -9,7 +9,17 @@
     "version": 1,
     "tags": null
   },
-  {
+   {
+    "path": "/QuevedoPlaya.mp3",
+    "name": "Let It Go",
+    "bmp": 105,
+    "startTime": 0.05,
+    "diamonds": 50,
+    "type": "OPEN",
+    "version": 1,
+    "tags": null
+  },
+   {
     "path": "/TaylorSwiftHero.mp3",
     "name": "Be Loved",
     "bmp": 105,
